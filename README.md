@@ -1,7 +1,7 @@
 # Hi there! ♥︎
 I'm mostly trying to learn website making right now.
 - I’m currently learning more about HTML, CSS, JS, Renpy, and Python.
-- I’m looking for help with more advanced Javascript, Renpy, and Python code.
+- I’m looking for help with more advanced JS, Renpy, and Python code.
 - Ask me about my website, Renpy game, or just about my current projects in general!
 - How to reach me: I am most likely to respond on Discord. My user is adrram11.
 - Pronouns: she/they
