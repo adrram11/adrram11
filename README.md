@@ -16,3 +16,4 @@ I'm mostly trying to learn website making right now.
 - I'm doing the program again this year and making a therapy chatbot.
 - I participated in a hackathon once, but sadly, my team did not win... :C
 - I did a STEM/coding summer program and it was really fun beacuse I got to see my cool ELA teacher from last school year again >:D
+
